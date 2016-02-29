@@ -2,7 +2,7 @@
 
 This repository contains test data for various bioinformatic tools/pipelines.
 
-## cancelPanel test data
+## cancerPanel test data
 
 The following steps were taken to generate the data:
   * create BED file with regions
